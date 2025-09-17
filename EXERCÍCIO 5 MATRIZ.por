@@ -5,7 +5,7 @@ programa {
 
     para(inteiro i=0;i<L;i++){
       para(inteiro j=0;j<C;j++){
-        escreva("Digite o ", j+1, "º número da ", i+1,"ª linha da matriz: ")
+        escreva("Digite o ", j+1, "º número da ", i+1,"ª linha da matriz 5x5: ")
         leia(matriz[i][j])
       }
     }
@@ -16,7 +16,7 @@ programa {
       }escreva("\n")
       }
 
-    escreva("Digite um número para pesquisa: ")
+    escreva("Digite um número para pesquisa!!!!!!: ")
     leia(numPesquisa)
 
     para(inteiro i=0;i<L;i++){
