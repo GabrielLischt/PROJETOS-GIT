@@ -21,7 +21,7 @@ programa {
       leia(usuarios[totalUsuarios][1])
       saldos[totalUsuarios] = 0  
       totalUsuarios = totalUsuarios + 1
-      escreva("\nUsuário cadastrado com sucesso!")
+      escreva("\nUsuário cadastrado com sucesso! Parabéns!!")
     }
   }
 
